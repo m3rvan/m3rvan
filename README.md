@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Isa Mervan Arslan
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning HTML, CSS and JavaScript
